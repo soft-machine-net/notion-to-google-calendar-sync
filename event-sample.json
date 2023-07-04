@@ -1,0 +1,17 @@
+{
+    "calendars": [
+        {
+            "name": "CALENDAR_NAME",
+            "dbid": "NOTION_DB_ID",
+            "calendar_id": "GOOGLE_CALENDAR_ID", 
+            "reqProps": {
+                "summary": null,
+                "description": null,
+                "datetime": "Date"
+            },
+            "optProps":{
+                
+            }
+        }
+    ]
+}

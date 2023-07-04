@@ -1,0 +1,6 @@
+{
+    "Parameters":{
+        "NOTION_INTEGRATION_SECRET": "REPLACE_NOTION_INTEGRATION_SECRET",
+        "SYNC_INTERVAL_MINUTES": 5
+    }
+}
